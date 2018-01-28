@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">mozkra</string>
+
+    <string-array name="faculty">
+        <item>Choose your Faculty .... </item>
+        <item>Petroleum and Mining Engineering Faculty</item>
+        <item>Science Faculty</item>
+        <item>Education Faculty</item>
+        <item>Arts and Humanities science Faculty</item>
+        <item>Computers and information </item>
+        <item>Fish resources and marine studies </item>
+        <item>Politics and Economy</item>
+    </string-array>
+    <string-array name="year">
+        <item>Choose the year...</item>
+        <item>first year P.E</item>
+        <item>second year P.E</item>
+
+    </string-array>
+    <string-array name="semesterpe1">
+    <item>Choose the semester...</item>
+    <item>first semester Y1</item>
+    <item>second semester Y1</item>
+</string-array>
+    <string-array name="semesterpe2">
+        <item>Choose the semester...</item>
+        <item>first semester Y2</item>
+    </string-array>
+    <string-array name="materialpe11">
+    <item>اختر المادة...</item>
+    <item>مبادئ القانون 1</item>
+    <item>مبادئ العلوم السياسة</item>
+    <item>مبادئ السلوك التنظيمى</item>
+    <item>اقتصاد جزئى</item>
+    <item>امتحانات 1</item>
+</string-array>
+    <string-array name="materialpe12">
+    <item>اختر المادة...</item>
+    <item>مبادئ القانون 2</item>
+    <item>مبادئ احصاء</item>
+    <item>حقوق انسان</item>
+    <item>الادارة العامة</item>
+    <item>اقتصاد كلى</item>
+    <item>international organization</item>
+    <item>امتحانات 2</item>
+</string-array>
+    <string-array name="materialpe21">
+        <item>اختر المادة...</item>
+        <item>امتحان اقتصاد</item>
+    </string-array>
+
+
+    <string-array name="departmentfr">
+        <item>Choose the department...</item>
+        <item>Ocean</item>
+        <item>هندسة بحرية</item>
+        <item>مميز</item>
+        <item>سلامة بحرية</item>
+    </string-array>
+    <string-array name="yearRF">
+        <item>Choose the year...</item>
+        <item>first year F.R</item>
+    </string-array>
+    <string-array name="yearRF1">
+        <item>Choose the year...</item>
+        <item>First year F.R</item>
+    </string-array>
+    <string-array name="yearRF2">
+        <item>Choose the year...</item>
+        <item>Second year F.R</item>
+    </string-array>
+    <string-array name="semesterfr1">
+        <item>Choose the semester...</item>
+        <item>first semester - second year</item>
+    </string-array>
+    <string-array name="semesterfr11">
+        <item>Choose the semester...</item>
+        <item>first semester - first year</item>
+    </string-array>
+    <string-array name="materialfr112">
+        <item>اختر المادة...</item>
+        <item>MidTerm</item>
+        <item>Exams1</item>
+        <item>Exams2</item>
+
+    </string-array>
+    <string-array name="materialfr11">
+        <item>اختر المادة...</item>
+        <item>Exams</item>
+        <item>فلك وارصاد جوية</item>
+        <item>بحيـرات</item>
+    </string-array>
+    <string-array name="materialfr">
+        <item>اختر المادة...</item>
+        <item>Caga culture</item>
+        <item>Caga culture-fourth year</item>
+        <item>تسويق</item>
+    </string-array>
+    <string-array name="materialfr1">
+        <item>اختر المادة...</item>
+        <item>final oceanography</item>
+        <item>فلك وأرصاد جوية</item>
+        <item>بحيرات</item>
+
+    </string-array>
+
+
+
+
+</resources>
